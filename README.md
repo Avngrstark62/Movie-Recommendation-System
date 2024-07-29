@@ -2,6 +2,8 @@
 
 This project is a Movie Recommendation System built using Streamlit. The system provides movie recommendations based on the input movie name, leveraging cosine similarity between movie vectors. Additionally, the system fetches and displays movie posters using The Movie Database (TMDb) API.
 
+Access the Webapp here [Movie Recommendation System](https://huggingface.co/spaces/avngrstark/Movie-Recommendation-System)
+
 **Features**
 
 Movie Recommendations: Get 20 movie recommendations based on the cosine similarity of movie vectors.
